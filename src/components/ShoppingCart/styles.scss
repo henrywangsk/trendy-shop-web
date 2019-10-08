@@ -1,0 +1,23 @@
+.cart-container {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  padding: 0.5em;
+  cursor: pointer;
+}
+
+.counter {
+  position: absolute;
+  right: 0.6em;
+  bottom: 1em;
+  border-radius: 1em;
+  box-sizing: border-box;
+  color: #fff;
+  text-overflow: ellipsis;
+  -webkit-transform: scale(0.6);
+  transform: scale(0.6);
+}
+
+.modal-body {
+  background-color: black;
+}

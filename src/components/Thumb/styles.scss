@@ -1,0 +1,16 @@
+.normal {
+  img {
+    width: 100%;
+  }
+}
+
+.small {
+  display: inline-block;
+  vertical-align: middle;
+  width: 15%;
+  margin-right: 3%;
+  img {
+    width: 50%;
+    height: auto;
+  }
+}
